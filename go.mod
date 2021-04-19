@@ -1,3 +1,3 @@
-module github.com/DmitriyVTitov/size
+module github.com/Khan/size
 
 go 1.14
